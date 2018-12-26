@@ -49,4 +49,5 @@ MediBoost:
 # Limitations
 # Conclusion
 
-# Credits: Include a section for credits in order to highlight and link to the authors of your project.
+# Credits: 
+Include a section for credits in order to highlight and link to the authors of your project.
