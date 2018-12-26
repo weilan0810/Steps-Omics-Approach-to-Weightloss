@@ -37,8 +37,11 @@ KEGG Pathways - KEGG provides context to genetic interactions; and, therefore, w
 # Data Analysis Methods:
 
 Logistic Regression:
+
 SVM:
+
 Random Forest:
+
 MediBoost:
 
 # Results
