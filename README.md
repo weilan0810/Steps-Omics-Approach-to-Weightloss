@@ -2,14 +2,14 @@
 
 This project uses data from a previously completed clinical trial, which provides a well characterized sample of overweight or obese Filipino individuals, outcomes of a mobile phone-based intervention for weight loss, continuous physical activity data, dietary pattern data, and previously collected gene expression data. This study proposes to develop and assess predictive models for weight loss using demographic, clinical, gene expression, step count, and dietary pattern data and evaluate gene expression levels that are associated with weight loss. The potential impact of this project is improved prediction of which individuals are most likely to lose weight in response to a physical activity and dietary intervention and generation of new knowledge about the mechanisms that underlie weight loss.
 
-Table of Contents: 
-1. Dataset Description
-2. Methods
-3. Data Analyses
-4. Results
-5. Discussion
-6. Limitations
-7. Conclusion
+# Table of Contents: 
+# 1. Dataset Description
+# 2. Methods
+# 3. Data Analyses
+# 4. Results
+# 5. Discussion
+# 6. Limitations
+# 7. Conclusion
 
 # Data Description: 
 Data was collected using the methods...
@@ -44,10 +44,13 @@ Random Forest:
 
 MediBoost:
 
-# Results
-# Discussion
-# Limitations
-# Conclusion
+# Results:
+
+# Discussion:
+
+# Limitations:
+
+# Conclusion:
 
 # Credits: 
 Include a section for credits in order to highlight and link to the authors of your project.
