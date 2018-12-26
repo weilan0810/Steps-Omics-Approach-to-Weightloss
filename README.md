@@ -31,8 +31,11 @@ In the case of missing data, study participants were either dropped from the ent
 
 Feature Engineering Methods:
 
-PCA - PCA indicates which genes within our dataset have the highest variance between different studyID's. By identifying which genes are variant, we can discard other genes (dimensional reduction) in our dataset that are consistent across individuals, and hone in on understanding why some variables contain high variance. After PCA, there were 5 principle components that explaired roughly 90% of the variability.
-KEGG Pathways - KEGG provides context to genetic interactions; and, therefore, will provide additional information about our PCA results by summarizing which pathways are involved in specific weight loss interactions. We retained only pathways that displayed counts for two or more genes in each pathways and discarded the others (dimensional reduction).
+PCA - 
+PCA indicates which genes within our dataset have the highest variance between different studyID's. By identifying which genes are variant, we can discard other genes (dimensional reduction) in our dataset that are consistent across individuals, and hone in on understanding why some variables contain high variance. After PCA, there were 5 principle components that explaired roughly 90% of the variability.
+
+KEGG Pathways - 
+KEGG provides context to genetic interactions; and, therefore, will provide additional information about our PCA results by summarizing which pathways are involved in specific weight loss interactions. We retained only pathways that displayed counts for two or more genes in each pathways and discarded the others (dimensional reduction).
 
 # Data Analysis Methods:
 
